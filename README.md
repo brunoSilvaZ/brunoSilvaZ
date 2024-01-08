@@ -1,5 +1,5 @@
 ### Oi, Eu sou o Bruno Alves
-Tenho 18 anos de idade, atualmente estou estudando cloud-computing, docker, python, e várias outras coisas, estou tentando melhorar a cada dia!!
+Tenho 19 anos de idade, atualmente estou estudando cloud-computing, docker, python, e várias outras coisas, estou tentando melhorar a cada dia!!
 - Atualmente estudando 
 - Cloud-computing
 
